@@ -20,11 +20,7 @@ VirtualBox. In particular, this applies to code that wants to extend
 VirtualBox by way of the Extension Pack mechanism declared in the ExtPack.h
 header file.
 
-3) Whoever creates or distributes a derived work based on VirtualBox is not
-obligated to grant the above exceptions for such a version. The GPL permits
-you to release a modified version without the above exception; in addition,
-Oracle hereby also allows you to release a modified version which carries
-forward these exceptions.
+
 
 
 Oracle America, Inc.
